@@ -1,23 +1,51 @@
-# Python cache files
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Dataset (DO NOT UPLOAD)
+# =========================
+data/
+*.csv
+
+# =========================
+# Trained Models
+# =========================
+models/
+*.pkl
+*.joblib
+
+# =========================
+# Python Cache
+# =========================
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 
-# Virtual Environment
-venv/
-
-# Jupyter Notebook checkpoints
+# =========================
+# Jupyter Notebook Checkpoints
+# =========================
 .ipynb_checkpoints/
 
-# VS Code settings
-.vscode/
+# =========================
+# Logs / Reports (optional)
+# =========================
+*.log
 
-# PyCharm settings
-.idea/
-
-# Operating System files
+# =========================
+# OS Files
+# =========================
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
+# =========================
+# IDE Files (optional)
+# =========================
+.vscode/
+.idea/
