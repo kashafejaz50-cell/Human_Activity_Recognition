@@ -1,0 +1,10 @@
+HUMAN ACTIVITY RECOGNITION MODEL RESULTS
+========================================
+
+Random Forest: 0.9267
+SVM: 0.9518
+Logistic Regression: 0.9552
+Decision Tree: 0.8622
+
+BEST MODEL: Logistic Regression
+BEST ACCURACY: 0.9552

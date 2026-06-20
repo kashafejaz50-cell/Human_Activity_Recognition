@@ -1,0 +1,18 @@
+HUMAN ACTIVITY RECOGNITION - BEST MODEL REPORT
+=============================================
+
+Accuracy: 0.9617
+
+Classification Report:
+                    precision    recall  f1-score   support
+
+            LAYING       1.00      1.00      1.00       537
+           SITTING       0.96      0.89      0.92       491
+          STANDING       0.91      0.97      0.94       532
+           WALKING       0.96      1.00      0.98       496
+WALKING_DOWNSTAIRS       0.99      0.95      0.97       420
+  WALKING_UPSTAIRS       0.97      0.96      0.96       471
+
+          accuracy                           0.96      2947
+         macro avg       0.96      0.96      0.96      2947
+      weighted avg       0.96      0.96      0.96      2947

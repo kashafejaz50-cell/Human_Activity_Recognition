@@ -1,0 +1,10 @@
+TUNED MODEL RESULTS (WITH OVERFITTING CHECK)
+==========================================
+
+Random Forest Test: 0.9274
+SVM Test: 0.9617
+Logistic Regression Test: 0.9552
+Decision Tree Test: 0.8595
+
+BEST MODEL: SVM
+BEST ACCURACY: 0.9617
